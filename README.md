@@ -1,8 +1,10 @@
+<!-- You found the source. +10 XP. -->
+
 # Thør · Théo Descamps
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=520&lines=Fullstack+developer+%E2%80%94+Belgium;Forging+products+from+schema+to+interface.;React+%C2%B7+TypeScript+%C2%B7+Laravel+%C2%B7+NestJS;Currently+questing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=520&lines=Fullstack+developer+%E2%80%94+Belgium;Forging+software+from+schema+to+interface.;React+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+Laravel;Currently+questing." alt="Typing SVG" />
 
 <br/>
 
@@ -13,7 +15,13 @@
 
 ---
 
-I forge software that holds up — web apps, APIs, server infrastructure, and whatever the next quest demands. Clean architecture, real-world scale. Freelancing in Belgium.
+## Lore
+
+Fullstack developer, freelancing in Belgium. I build across the stack — web apps, APIs, server infrastructure — with clean architecture at every layer.
+
+I care about systems that scale from the start, code that reads well, and shipping things that actually work. I'd rather forge the right tool than grab a random one off the shelf.
+
+> *The name is Thør. The portfolio is `thornotfound`. Yes, it's intentional.*
 
 ---
 
@@ -35,14 +43,23 @@ I forge software that holds up — web apps, APIs, server infrastructure, and wh
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Infra & tooling**
+**Infra & server**
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
 ![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=flat-square&logo=traefikproxy&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Turborepo](https://img.shields.io/badge/Turborepo-EF4444?style=flat-square&logo=turborepo&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+---
+
+## Active Quest
+
+⚔️ **Pulse** — SaaS to manage freelance activity.
+Invoices, clients, expenses, documents. Multi-tenant from day one, clean architecture, Stripe, 2FA.
+
+`NestJS · React · PostgreSQL · Stripe` — *in progress*
 
 ---
 
@@ -95,5 +112,6 @@ I forge software that holds up — web apps, APIs, server infrastructure, and wh
 ---
 
 <div align="center">
-  <sub>All projects are private for now — feel free to reach out.</sub>
+  <sub>All projects are private for now — feel free to reach out.<br/>
+  <code>Response time: 1d4 business days.</code></sub>
 </div>
