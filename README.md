@@ -53,7 +53,7 @@ I forge web products that hold up — clean architecture, real-world scale, and 
         <img src="https://img.shields.io/badge/Payload_CMS-1C1C1C?style=flat-square"/>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
       </p>
-      <a href="https://thornotfound.net">→ thornotfound.net</a>
+      <a href="https://thornotfound.net">→ thornotfound.net</a> 
     </td>
     <td width="50%" valign="top">
       <h3>🏗️ Sitecraft</h3>
