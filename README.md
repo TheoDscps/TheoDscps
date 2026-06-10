@@ -13,7 +13,7 @@
 
 ---
 
-I forge web products that hold up — clean architecture, real-world scale, and an eye for the interface. Freelancing in Belgium. Currently questing.
+I forge software that holds up — web apps, APIs, server infrastructure, and whatever the next quest demands. Clean architecture, real-world scale. Freelancing in Belgium.
 
 ---
 
