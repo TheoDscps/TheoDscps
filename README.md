@@ -1,6 +1,6 @@
-<div align="center">
+# Thør · Théo Descamps
 
-<h1>Thør · Théo Descamps</h1>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=520&lines=Fullstack+developer+%E2%80%94+Belgium;Forging+products+from+schema+to+interface.;React+%C2%B7+TypeScript+%C2%B7+Laravel+%C2%B7+NestJS;Currently+questing." alt="Typing SVG" />
 
