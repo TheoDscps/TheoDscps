@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=520&lines=Fullstack+developer+%E2%80%94+Belgium;Forging+software+from+schema+to+interface.;React+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+Laravel;Currently+questing." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=7C6AF7&center=true&vCenter=true&width=520&lines=Freelancing+in+Belgium;Forging+software+from+schema+to+interface.;React+%C2%B7+TypeScript+%C2%B7+C%23+%C2%B7+Laravel;Currently+questing." alt="Typing SVG" />
 
 <br/>
 
@@ -17,7 +17,7 @@
 
 ## Lore
 
-Fullstack developer, freelancing in Belgium. I build across the stack — web apps, APIs, server infrastructure — with clean architecture at every layer.
+Fullstack developer, freelancing in Belgium. I build across the stack: web apps, APIs, server infrastructure, with clean architecture at every layer.
 
 I care about systems that scale from the start, code that reads well, and shipping things that actually work. I'd rather forge the right tool than grab a random one off the shelf.
 
@@ -56,10 +56,10 @@ I care about systems that scale from the start, code that reads well, and shippi
 
 ## Active Quest
 
-⚔️ **Pulse** — SaaS to manage freelance activity.
+⚔️ **Pulse** · SaaS to manage freelance activity.
 Invoices, clients, expenses, documents. Multi-tenant from day one, clean architecture, Stripe, 2FA.
 
-`NestJS · React · PostgreSQL · Stripe` — *in progress*
+`NestJS · React · PostgreSQL · Stripe` · *in progress*
 
 ---
 
@@ -69,7 +69,7 @@ Invoices, clients, expenses, documents. Multi-tenant from day one, clean archite
   <tr>
     <td width="50%" valign="top">
       <h3>🌐 Portfolio</h3>
-      <p>A handcrafted digital realm — Cyber-Nordic design system, canvas effects, glitch animations, generative visuals. Next.js 15 + Payload CMS, i18n.</p>
+      <p>A handcrafted digital realm with a Cyber-Nordic design system: canvas effects, glitch animations, generative visuals. Next.js 15 + Payload CMS, i18n.</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=next.js&logoColor=white"/>
         <img src="https://img.shields.io/badge/Payload_CMS-1C1C1C?style=flat-square"/>
@@ -90,7 +90,7 @@ Invoices, clients, expenses, documents. Multi-tenant from day one, clean archite
   <tr>
     <td width="50%" valign="top">
       <h3>⚡ Pulse</h3>
-      <p>A crafted artifact for freelancers — invoices, clients, expenses, documents. Multi-tenant clean architecture, Stripe, 2FA. NestJS + React in a Turborepo monorepo.</p>
+      <p>A crafted artifact for freelancers: invoices, clients, expenses, documents. Multi-tenant clean architecture, Stripe, 2FA. NestJS + React in a Turborepo monorepo.</p>
       <p>
         <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white"/>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
@@ -100,7 +100,7 @@ Invoices, clients, expenses, documents. Multi-tenant from day one, clean archite
     </td>
     <td width="50%" valign="top">
       <h3>⚔️ Hugruna</h3>
-      <p>An epic quest — large-scale multi-vendor marketplace. Laravel + Clean Architecture, vendor/order system, AI service layer, subscription management, full test suite.</p>
+      <p>An epic quest. Large-scale multi-vendor marketplace, Laravel + Clean Architecture, vendor/order system, AI service layer, subscription management, full test suite.</p>
       <p>
         <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"/>
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white"/>
@@ -112,6 +112,6 @@ Invoices, clients, expenses, documents. Multi-tenant from day one, clean archite
 ---
 
 <div align="center">
-  <sub>All projects are private for now — feel free to reach out.<br/>
+  <sub>All projects are private for now. Feel free to reach out.<br/>
   <code>Response time: 1d4 business days.</code></sub>
 </div>
